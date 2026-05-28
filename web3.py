@@ -1,7 +1,4 @@
-# <span class="subject_fixed" data-role="list-title-text" title="미개봉) 아이폰 Xs 데빌케이스 Type X2">
-# 							미개봉) 아이폰 Xs 데빌케이스 Type X2
-# </span>
-
+# body > div.whole_box > div > div > table > tbody > tr:nth-child(6) > td.subject > a
 
 
 
@@ -12,13 +9,13 @@ import re
 #User-Agent를 조작하는 경우(아이폰에서 사용하는 사파리 브라우져의 헤더) 
 hdr = {'User-agent':'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.23 (KHTML, like Gecko) Version/10.0 Mobile/14E5239e Safari/602.1'}
 
-f = open("c:/clien.txt","wt",encoding="utf-8")
+f = open("c:/todayhumor.txt","wt",encoding="utf-8")
 
 
 #url ="https://www.clien.net/service/board/sold"
 
-for i in range(0,1000):
-    url = "https://www.clien.net/service/board/sold?&od=T31&category=0&po=" + str(i)
+for i in range(1,11):
+    url = "https://www.todayhumor.co.kr/board/list.php?table=bestofbest&page=" + str(i)
     print(url)
 
 
@@ -26,12 +23,14 @@ for i in range(0,1000):
     req = urllib.request.Request(url, headers=hdr)
     data = urllib.request.urlopen(req).read()
     soup = BeautifulSoup(data, "html.parser")
-    list = soup.find_all("span", {"data-role":"list-title-text"})
+    #list = soup.find_all("span", {"data-role":"list-title-text"})
+    #list = soup.find_all("td", attrs={"class":"subject"})
+    list = soup.select("td a")
 
     for tag in list:
+        #title = tag.find("a").text.strip()
         title = tag.text.strip()
-        title = title.replace("\n","")
-        if re.search("아이폰", title):
+        if re.search("한국",title):
             print(title)
             f.write(title + "\n")
 
