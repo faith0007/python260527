@@ -1,0 +1,178 @@
+================================================================================
+위키독스 (https://wikidocs.net/book/1) 컨텐츠 다운로드
+================================================================================
+
+
+================================================================================
+제목: 점프 투 파이썬
+URL: https://wikidocs.net/book/1/rss/
+================================================================================
+
+점프 투 파이썬
+https://wikidocs.net/book/1
+이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 없는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도록 알기 쉽게 설명하였다.
+ 
+파이썬에 대한 기본적인 지식을 알고 있는 사람이라도 이 책은 파이썬 프로그래밍에 대한 흥미를 가질 수 있는 좋은 안내서가 될 것이다. 이 책의 목표는 독자가 파이썬을 통해 프로그래밍에 대한 전반적인 이해를 갖게하는 것이며, 또 파이썬이라는 도구를 이용하여 원하는 프로그램을 쉽고 재미있게 만들 수 있게 하는 것이다.
+
+**점프 투 파이썬 개정 2판이 종이책으로 출간되었습니다. (2023년 6월 15일)**
+
+[[TIP("점프 투 파이썬")]]
+**유료 e-book 안내**
+
+위키독스의 "점프 투 파이썬"은 "되새김 문제"와 "파이썬 코딩 면허 시험 20제"를 제외한 모든 챕터를 무료로 공개하고 있습니다. "되새김 문제"와 "파이썬 코딩 면허 시험 20제" 그리고 해당 문제의 정답 및 풀이는 유료 E-book 또는 종이책에서만 확인할 수 있습니다.
+
+* [책 구입 안내](https://wikidocs.net/4321)
+
+[[/TIP]]
+ko
+Sat, 23 May 2026 09:09:59 +0900
+06-5 숫자 야구 게임 만들기
+https://wikidocs.net/337206
+06-5 숫자 야구 게임 만들기
+Sat, 23 May 2026 09:09:59 +0900
+https://wikidocs.net/337206
+07장 파이썬 날아오르기
+https://wikidocs.net/184208
+07장 파이썬 날아오르기
+Thu, 02 Apr 2026 10:24:21 +0900
+https://wikidocs.net/184208
+08장 정규표현식
+https://wikidocs.net/1669
+08장 정규표현식
+Thu, 02 Apr 2026 10:23:07 +0900
+https://wikidocs.net/1669
+02장 파이썬 프로그래밍의 기초, 자료형
+https://wikidocs.net/11
+02장 파이썬 프로그래밍의 기초, 자료형
+Thu, 02 Apr 2026 10:16:58 +0900
+https://wikidocs.net/11
+01-2 파이썬의 특징
+https://wikidocs.net/6
+01-2 파이썬의 특징
+Thu, 02 Apr 2026 09:55:56 +0900
+https://wikidocs.net/6
+01-1 파이썬이란?
+https://wikidocs.net/4307
+01-1 파이썬이란?
+Thu, 02 Apr 2026 09:36:54 +0900
+https://wikidocs.net/4307
+05-1 클래스
+https://wikidocs.net/28
+05-1 클래스
+Wed, 01 Apr 2026 09:55:16 +0900
+https://wikidocs.net/28
+04-1 함수
+https://wikidocs.net/24
+04-1 함수
+Wed, 01 Apr 2026 09:49:23 +0900
+https://wikidocs.net/24
+02-2 문자열 자료형
+https://wikidocs.net/13
+02-2 문자열 자료형
+Wed, 01 Apr 2026 09:42:29 +0900
+https://wikidocs.net/13
+05-7 외부 라이브러리
+https://wikidocs.net/180538
+05-7 외부 라이브러리
+Wed, 01 Apr 2026 09:36:58 +0900
+https://wikidocs.net/180538
+05-6 표준 라이브러리
+https://wikidocs.net/33
+05-6 표준 라이브러리
+Wed, 01 Apr 2026 09:34:02 +0900
+https://wikidocs.net/33
+03-3 for문
+https://wikidocs.net/22
+03-3 for문
+Wed, 01 Apr 2026 09:25:02 +0900
+https://wikidocs.net/22
+03-2 while문
+https://wikidocs.net/21
+03-2 while문
+Wed, 01 Apr 2026 09:12:04 +0900
+https://wikidocs.net/21
+03-1 if문
+https://wikidocs.net/20
+03-1 if문
+Wed, 01 Apr 2026 09:02:04 +0900
+https://wikidocs.net/20
+04-3 파일 읽고 쓰기
+https://wikidocs.net/26
+04-3 파일 읽고 쓰기
+Tue, 31 Mar 2026 22:58:40 +0900
+https://wikidocs.net/26
+04-2 사용자 입출력
+https://wikidocs.net/25
+04-2 사용자 입출력
+Tue, 31 Mar 2026 22:29:56 +0900
+https://wikidocs.net/25
+02-1 숫자형
+https://wikidocs.net/12
+02-1 숫자형
+Tue, 31 Mar 2026 20:21:18 +0900
+https://wikidocs.net/12
+01-5 파이썬 둘러보기
+https://wikidocs.net/9
+01-5 파이썬 둘러보기
+Tue, 31 Mar 2026 18:14:52 +0900
+https://wikidocs.net/9
+02-8 자료형의 값을 저장하는 공간, 변수
+https://wikidocs.net/18
+02-8 자료형의 값을 저장하는 공간, 변수
+Tue, 31 Mar 2026 15:07:30 +0900
+https://wikidocs.net/18
+02-5 딕셔너리 자료형
+https://wikidocs.net/16
+02-5 딕셔너리 자료형
+Tue, 31 Mar 2026 14:57:48 +0900
+https://wikidocs.net/16
+01-3 파이썬으로 무엇을 할 수 있을까?
+https://wikidocs.net/7
+01-3 파이썬으로 무엇을 할 수 있을까?
+Tue, 31 Mar 2026 14:48:17 +0900
+https://wikidocs.net/7
+08-3 강력한 정규 표현식의 세계로
+https://wikidocs.net/4309
+08-3 강력한 정규 표현식의 세계로
+Tue, 31 Mar 2026 14:41:13 +0900
+https://wikidocs.net/4309
+06-6 시저 암호 만들기
+https://wikidocs.net/337212
+06-6 시저 암호 만들기
+Tue, 31 Mar 2026 10:04:30 +0900
+https://wikidocs.net/337212
+08-2 정규 표현식 시작하기
+https://wikidocs.net/4308
+08-2 정규 표현식 시작하기
+Tue, 31 Mar 2026 09:48:09 +0900
+https://wikidocs.net/4308
+01-4 파이썬 설치하기
+https://wikidocs.net/8
+01-4 파이썬 설치하기
+Tue, 31 Mar 2026 09:29:47 +0900
+https://wikidocs.net/8
+01-6 파이썬과 에디터
+https://wikidocs.net/17684
+01-6 파이썬과 에디터
+Tue, 31 Mar 2026 09:26:50 +0900
+https://wikidocs.net/17684
+07-4 파이썬 타입 어노테이션
+https://wikidocs.net/184212
+07-4 파이썬 타입 어노테이션
+Mon, 30 Mar 2026 23:12:41 +0900
+https://wikidocs.net/184212
+07-2 클로저와 데코레이터
+https://wikidocs.net/184210
+07-2 클로저와 데코레이터
+Mon, 30 Mar 2026 23:00:18 +0900
+https://wikidocs.net/184210
+07-1 파이썬과 유니코드
+https://wikidocs.net/184209
+07-1 파이썬과 유니코드
+Mon, 30 Mar 2026 22:46:56 +0900
+https://wikidocs.net/184209
+07-3 이터레이터와 제너레이터
+https://wikidocs.net/184211
+07-3 이터레이터와 제너레이터
+Mon, 30 Mar 2026 22:38:02 +0900
+https://wikidocs.net/184211
